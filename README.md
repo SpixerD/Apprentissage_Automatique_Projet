@@ -1,2 +1,2 @@
-# Apprentissage_Automatique_Projet
-Machine learning Project where we'll be analysing a cars dataset and trying different language models.
+# Cars price prediction
+Machine learning Project where we'll be analysing a cars dataset, trying different language models and predicting appropriate prices.
